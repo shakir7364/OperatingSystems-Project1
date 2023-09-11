@@ -1,0 +1,627 @@
+
+*****			Ready Queue			*****
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 0
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 0
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 0
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 0
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 0
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 0
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 0
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 0
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 24	Wait: 0
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 1	Wait: 0
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 0
+state: Ready	ID: 12	K: 	priority: 0	CPU used: 0	CPU max: 21	Wait: 0
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 0
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 0	CPU max: 84	Wait: 0
+state: Ready	ID: 15	K: 	priority: 0	CPU used: 0	CPU max: 62	Wait: 0
+state: Ready	ID: 16	K: 	priority: 0	CPU used: 0	CPU max: 44	Wait: 0
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 0	CPU max: 53	Wait: 0
+state: Ready	ID: 18	K: 	priority: 0	CPU used: 0	CPU max: 6	Wait: 0
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 0	CPU max: 8	Wait: 0
+state: Ready	ID: 20	K: 	priority: 0	CPU used: 0	CPU max: 50	Wait: 0
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 0	CPU max: 67	Wait: 0
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 0	CPU max: 70	Wait: 0
+state: Ready	ID: 23	K: 	priority: 0	CPU used: 0	CPU max: 46	Wait: 0
+state: Ready	ID: 24	K: 	priority: 0	CPU used: 0	CPU max: 10	Wait: 0
+state: Ready	ID: 25	K: 	priority: 0	CPU used: 0	CPU max: 9	Wait: 0
+
+*****Running Process 25*****
+state: Running	ID: 25	K: 	priority: 0	CPU used: 83	CPU max: 9	Wait: 0
+
+*****			Process Completed			*****
+state: Running	ID: 25	K: 	priority: 0	CPU used: 83	CPU max: 9	Wait: 0
+
+*****Running Process 24*****
+state: Running	ID: 24	K: 	priority: 0	CPU used: 44	CPU max: 10	Wait: 12
+
+*****			Process Completed			*****
+state: Running	ID: 24	K: 	priority: 0	CPU used: 44	CPU max: 10	Wait: 12
+
+*****Running Process 23*****
+state: Running	ID: 23	K: 	priority: 0	CPU used: 97	CPU max: 46	Wait: 26
+
+*****			Process Completed			*****
+state: Running	ID: 23	K: 	priority: 0	CPU used: 97	CPU max: 46	Wait: 26
+
+*****Running Process 22*****
+state: Running	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 30
+
+*****			Context Switch 5			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 30
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 44
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 44
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 44
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 44
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 44
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 44
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 44
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 44
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 24	Wait: 44
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 1	Wait: 44
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 44
+state: Ready	ID: 12	K: 	priority: 0	CPU used: 0	CPU max: 21	Wait: 44
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 44
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 0	CPU max: 84	Wait: 44
+state: Ready	ID: 15	K: 	priority: 0	CPU used: 0	CPU max: 62	Wait: 44
+state: Ready	ID: 16	K: 	priority: 0	CPU used: 0	CPU max: 44	Wait: 44
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 0	CPU max: 53	Wait: 44
+state: Ready	ID: 18	K: 	priority: 0	CPU used: 0	CPU max: 6	Wait: 44
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 0	CPU max: 8	Wait: 44
+state: Ready	ID: 20	K: 	priority: 0	CPU used: 0	CPU max: 50	Wait: 44
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 0	CPU max: 67	Wait: 44
+
+*****			Waiting Queue			*****
+
+*****Running Process 21*****
+state: Running	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 44
+
+*****			Context Switch 3			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 33
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 47
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 47
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 47
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 47
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 47
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 47
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 47
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 47
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 24	Wait: 47
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 44
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 1	Wait: 47
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 47
+state: Ready	ID: 12	K: 	priority: 0	CPU used: 0	CPU max: 21	Wait: 47
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 47
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 0	CPU max: 84	Wait: 47
+state: Ready	ID: 15	K: 	priority: 0	CPU used: 0	CPU max: 62	Wait: 47
+state: Ready	ID: 16	K: 	priority: 0	CPU used: 0	CPU max: 44	Wait: 47
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 0	CPU max: 53	Wait: 47
+state: Ready	ID: 18	K: 	priority: 0	CPU used: 0	CPU max: 6	Wait: 47
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 0	CPU max: 8	Wait: 47
+state: Ready	ID: 20	K: 	priority: 0	CPU used: 0	CPU max: 50	Wait: 47
+
+*****			Waiting Queue			*****
+
+*****Running Process 20*****
+state: Running	ID: 20	K: 	priority: 0	CPU used: 65	CPU max: 50	Wait: 47
+
+*****			Process Completed			*****
+state: Running	ID: 20	K: 	priority: 0	CPU used: 65	CPU max: 50	Wait: 47
+
+*****Running Process 19*****
+state: Running	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 53
+
+*****			Context Switch 2			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 50
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 64
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 64
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 64
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 64
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 64
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 64
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 64
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 64
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 24	Wait: 64
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 61
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 1	Wait: 64
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 64
+state: Ready	ID: 12	K: 	priority: 0	CPU used: 0	CPU max: 21	Wait: 64
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 64
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 0	CPU max: 84	Wait: 64
+state: Ready	ID: 15	K: 	priority: 0	CPU used: 0	CPU max: 62	Wait: 64
+state: Ready	ID: 16	K: 	priority: 0	CPU used: 0	CPU max: 44	Wait: 64
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 0	CPU max: 53	Wait: 64
+state: Ready	ID: 18	K: 	priority: 0	CPU used: 0	CPU max: 6	Wait: 64
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 53
+
+*****			Waiting Queue			*****
+
+*****Running Process 18*****
+state: Running	ID: 18	K: 	priority: 0	CPU used: 85	CPU max: 6	Wait: 64
+
+*****			Process Completed			*****
+state: Running	ID: 18	K: 	priority: 0	CPU used: 85	CPU max: 6	Wait: 64
+
+*****Running Process 17*****
+state: Running	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 70
+
+*****			Context Switch 5			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 70
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 72
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 86
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 86
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 86
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 86
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 86
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 86
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 86
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 86
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 24	Wait: 86
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 83
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 1	Wait: 86
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 86
+state: Ready	ID: 12	K: 	priority: 0	CPU used: 0	CPU max: 21	Wait: 86
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 86
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 0	CPU max: 84	Wait: 86
+state: Ready	ID: 15	K: 	priority: 0	CPU used: 0	CPU max: 62	Wait: 86
+state: Ready	ID: 16	K: 	priority: 0	CPU used: 0	CPU max: 44	Wait: 86
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 75
+
+*****			Waiting Queue			*****
+
+*****Running Process 16*****
+state: Running	ID: 16	K: 	priority: 0	CPU used: 89	CPU max: 44	Wait: 86
+
+*****			Process Completed			*****
+state: Running	ID: 16	K: 	priority: 0	CPU used: 89	CPU max: 44	Wait: 86
+
+*****Running Process 15*****
+state: Running	ID: 15	K: 	priority: 0	CPU used: 63	CPU max: 62	Wait: 89
+
+*****			Process Completed			*****
+state: Running	ID: 15	K: 	priority: 0	CPU used: 63	CPU max: 62	Wait: 89
+
+*****Running Process 14*****
+state: Running	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 97
+
+*****			Context Switch 4			*****
+
+>>>>>			I/O event completed: 1			<<<<<
+
+*****				Ready Queue			*****
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 89
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 91
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 105
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 105
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 105
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 105
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 105
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 105
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 105
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 105
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 24	Wait: 105
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 102
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 1	Wait: 105
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 105
+state: Ready	ID: 12	K: 	priority: 0	CPU used: 0	CPU max: 21	Wait: 105
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 105
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 94
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 97
+
+*****			Waiting Queue			*****
+
+*****Running Process 13*****
+state: Running	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 105
+
+*****			Context Switch 3			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 103
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 105
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 119
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 119
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 119
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 119
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 119
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 119
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 105
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 119
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 119
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 24	Wait: 119
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 116
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 1	Wait: 119
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 119
+state: Ready	ID: 12	K: 	priority: 0	CPU used: 0	CPU max: 21	Wait: 119
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 108
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 111
+
+*****			Waiting Queue			*****
+
+*****Running Process 12*****
+state: Running	ID: 12	K: 	priority: 0	CPU used: 79	CPU max: 21	Wait: 119
+
+*****			Process Completed			*****
+state: Running	ID: 12	K: 	priority: 0	CPU used: 79	CPU max: 21	Wait: 119
+
+*****Running Process 11*****
+state: Running	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 124
+
+*****			Context Switch 4			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 124
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 126
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 140
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 140
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 140
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 140
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 140
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 140
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 126
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 140
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 140
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 24	Wait: 140
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 137
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 1	Wait: 140
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 129
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 132
+
+*****			Waiting Queue			*****
+state: Waiting	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 124
+
+*****Running Process 10*****
+state: Running	ID: 10	K: 	priority: 0	CPU used: 73	CPU max: 1	Wait: 140
+
+*****			Process Completed			*****
+state: Running	ID: 10	K: 	priority: 0	CPU used: 73	CPU max: 1	Wait: 140
+
+*****Running Process 9*****
+state: Running	ID: 9	K: 	priority: 0	CPU used: 25	CPU max: 24	Wait: 144
+
+*****			Process Completed			*****
+state: Running	ID: 9	K: 	priority: 0	CPU used: 25	CPU max: 24	Wait: 144
+
+*****Running Process 8*****
+state: Running	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 152
+
+*****			Context Switch 3			*****
+
+>>>>>			I/O event completed: 2			<<<<<
+
+*****				Ready Queue			*****
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 144
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 146
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 160
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 160
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 160
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 160
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 152
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 160
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 160
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 146
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 74	Wait: 160
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 157
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 149
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 152
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 144
+
+*****			Waiting Queue			*****
+
+*****Running Process 7*****
+state: Running	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 160
+
+*****			Context Switch 5			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 160
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 163
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 165
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 179
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 179
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 179
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 179
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 171
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 75	Wait: 179
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 71	Wait: 179
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 165
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 176
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 168
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 171
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 163
+
+*****			Waiting Queue			*****
+
+*****Running Process 6*****
+state: Running	ID: 6	K: 	priority: 0	CPU used: 85	CPU max: 71	Wait: 179
+
+*****			Process Completed			*****
+state: Running	ID: 6	K: 	priority: 0	CPU used: 85	CPU max: 71	Wait: 179
+
+*****Running Process 5*****
+state: Running	ID: 5	K: 	priority: 0	CPU used: 4	CPU max: 75	Wait: 190
+
+*****			Process Completed			*****CPU event*****
+state: Running	ID: 5	K: 	priority: 0	CPU used: 4	CPU max: 75	Wait: 190
+
+*****				Ready Queue			*****
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 184
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 187
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 189
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 203
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 203
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 203
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 95	Wait: 203
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 195
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 189
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 200
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 192
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 195
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 187
+
+*****			Waiting Queue			*****
+
+*****Running Process 4*****
+state: Running	ID: 4	K: 	priority: 0	CPU used: 85	CPU max: 95	Wait: 203
+
+*****			Context Switch 5			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 85	CPU max: 95	Wait: 203
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 197
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 200
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 202
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 216
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 216
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 87	Wait: 216
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 208
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 202
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 213
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 205
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 208
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 200
+
+*****			Waiting Queue			*****
+
+*****Running Process 3*****
+state: Running	ID: 3	K: 	priority: 0	CPU used: 86	CPU max: 87	Wait: 216
+
+*****			Context Switch 4			*****
+
+>>>>>			I/O event completed: 3			<<<<<
+
+*****				Ready Queue			*****
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 85	CPU max: 95	Wait: 209
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 203
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 206
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 208
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 222
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 14	Wait: 222
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 214
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 208
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 219
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 211
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 214
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 206
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 86	CPU max: 87	Wait: 216
+
+*****			Waiting Queue			*****
+
+*****Running Process 2*****
+state: Running	ID: 2	K: 	priority: 0	CPU used: 4	CPU max: 14	Wait: 222
+
+*****			Context Switch 4			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 85	CPU max: 95	Wait: 212
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 206
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 209
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 211
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 86	Wait: 225
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 217
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 211
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 222
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 214
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 217
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 209
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 86	CPU max: 87	Wait: 219
+
+*****			Waiting Queue			*****
+state: Waiting	ID: 2	K: 	priority: 0	CPU used: 4	CPU max: 14	Wait: 222
+
+*****Running Process 1*****
+state: Running	ID: 1	K: 	priority: 0	CPU used: 4	CPU max: 86	Wait: 225
+
+*****			Context Switch 3			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 85	CPU max: 95	Wait: 218
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 212
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 215
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 217
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 223
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 4	CPU max: 86	Wait: 225
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 217
+state: Ready	ID: 21	K: 	priority: 0	CPU used: 65	CPU max: 67	Wait: 228
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 220
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 223
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 215
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 86	CPU max: 87	Wait: 225
+
+*****			Waiting Queue			*****
+state: Waiting	ID: 2	K: 	priority: 0	CPU used: 4	CPU max: 14	Wait: 228
+
+*****Running Process 21*****
+state: Running	ID: 21	K: 	priority: 0	CPU used: 67	CPU max: 67	Wait: 228
+
+*****			Process Completed			*****
+state: Running	ID: 21	K: 	priority: 0	CPU used: 67	CPU max: 67	Wait: 228
+
+*****Running Process 3*****
+state: Running	ID: 3	K: 	priority: 0	CPU used: 124	CPU max: 87	Wait: 227
+
+*****			Process Completed			*****
+state: Running	ID: 3	K: 	priority: 0	CPU used: 124	CPU max: 87	Wait: 227
+
+*****Running Process 1*****
+state: Running	ID: 1	K: 	priority: 0	CPU used: 75	CPU max: 86	Wait: 228
+
+*****			Context Switch 2			*****
+
+>>>>>			I/O event completed: 4			<<<<<
+
+*****				Ready Queue			*****
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 85	CPU max: 95	Wait: 225
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 219
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 222
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 224
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 230
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 224
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 227
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 26	CPU max: 84	Wait: 230
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 222
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 75	CPU max: 86	Wait: 228
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 4	CPU max: 14	Wait: 235
+
+*****			Waiting Queue			*****
+
+*****Running Process 2*****
+state: Running	ID: 2	K: 	priority: 0	CPU used: 98	CPU max: 14	Wait: 235
+
+*****			Process Completed			*****
+state: Running	ID: 2	K: 	priority: 0	CPU used: 98	CPU max: 14	Wait: 235
+
+*****Running Process 14*****
+state: Running	ID: 14	K: 	priority: 0	CPU used: 71	CPU max: 84	Wait: 240
+
+*****			Context Switch 3			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 85	CPU max: 95	Wait: 237
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 231
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 234
+state: Ready	ID: 22	K: 	priority: 0	CPU used: 33	CPU max: 70	Wait: 236
+state: Ready	ID: 14	K: 	priority: 0	CPU used: 71	CPU max: 84	Wait: 240
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 18	CPU max: 86	Wait: 242
+state: Ready	ID: 13	K: 	priority: 0	CPU used: 48	CPU max: 95	Wait: 236
+state: Ready	ID: 19	K: 	priority: 0	CPU used: 7	CPU max: 8	Wait: 239
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 234
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 75	CPU max: 86	Wait: 240
+
+*****			Waiting Queue			*****
+
+*****Running Process 8*****
+state: Running	ID: 8	K: 	priority: 0	CPU used: 99	CPU max: 86	Wait: 242
+
+*****			Process Completed			*****
+state: Running	ID: 8	K: 	priority: 0	CPU used: 99	CPU max: 86	Wait: 242
+
+*****Running Process 1*****
+state: Running	ID: 1	K: 	priority: 0	CPU used: 170	CPU max: 86	Wait: 257
+
+*****			Process Completed			*****
+state: Running	ID: 1	K: 	priority: 0	CPU used: 170	CPU max: 86	Wait: 257
+
+*****Running Process 14*****
+state: Running	ID: 14	K: 	priority: 0	CPU used: 129	CPU max: 84	Wait: 270
+
+*****			Process Completed			*****
+state: Running	ID: 14	K: 	priority: 0	CPU used: 129	CPU max: 84	Wait: 270
+
+*****Running Process 19*****
+state: Running	ID: 19	K: 	priority: 0	CPU used: 15	CPU max: 8	Wait: 289
+
+*****			Process Completed			*****
+state: Running	ID: 19	K: 	priority: 0	CPU used: 15	CPU max: 8	Wait: 289
+
+*****Running Process 4*****
+state: Running	ID: 4	K: 	priority: 0	CPU used: 110	CPU max: 95	Wait: 289
+
+*****			Process Completed			*****
+state: Running	ID: 4	K: 	priority: 0	CPU used: 110	CPU max: 95	Wait: 289
+
+*****Running Process 13*****
+state: Running	ID: 13	K: 	priority: 0	CPU used: 148	CPU max: 95	Wait: 303
+
+*****			Process Completed			*****
+state: Running	ID: 13	K: 	priority: 0	CPU used: 148	CPU max: 95	Wait: 303
+
+*****Running Process 22*****
+state: Running	ID: 22	K: 	priority: 0	CPU used: 62	CPU max: 70	Wait: 323
+
+*****			Process Completed			*****CPU event*****
+state: Running	ID: 22	K: 	priority: 0	CPU used: 62	CPU max: 70	Wait: 323
+
+*****				Ready Queue			*****
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 5	CPU max: 74	Wait: 335
+state: Ready	ID: 17	K: 	priority: 0	CPU used: 41	CPU max: 53	Wait: 338
+state: Ready	ID: 11	K: 	priority: 0	CPU used: 48	CPU max: 55	Wait: 338
+
+*****			Waiting Queue			*****
+
+*****Running Process 11*****
+state: Running	ID: 11	K: 	priority: 0	CPU used: 86	CPU max: 55	Wait: 338
+
+*****			Process Completed			*****
+state: Running	ID: 11	K: 	priority: 0	CPU used: 86	CPU max: 55	Wait: 338
+
+*****Running Process 17*****
+state: Running	ID: 17	K: 	priority: 0	CPU used: 84	CPU max: 53	Wait: 358
+
+*****			Process Completed			*****
+state: Running	ID: 17	K: 	priority: 0	CPU used: 84	CPU max: 53	Wait: 358
+
+*****Running Process 7*****
+state: Running	ID: 7	K: 	priority: 0	CPU used: 15	CPU max: 74	Wait: 366
+
+*****			Context Switch 5			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 15	CPU max: 74	Wait: 366
+
+*****			Waiting Queue			*****
+
+*****Running Process 7*****
+state: Running	ID: 7	K: 	priority: 0	CPU used: 30	CPU max: 74	Wait: 366
+
+*****			Context Switch 3			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 30	CPU max: 74	Wait: 366
+
+*****			Waiting Queue			*****
+
+*****Running Process 7*****
+state: Running	ID: 7	K: 	priority: 0	CPU used: 44	CPU max: 74	Wait: 366
+
+*****			Context Switch 3			*****
+
+*****				Ready Queue			*****
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 44	CPU max: 74	Wait: 366
+
+*****			Waiting Queue			*****
+
+*****Running Process 7*****
+state: Running	ID: 7	K: 	priority: 0	CPU used: 53	CPU max: 74	Wait: 366
+
+*****			Context Switch 4			*****
+
+>>>>>			I/O event completed: 5			<<<<<
+
+*****				Ready Queue			*****
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 53	CPU max: 74	Wait: 366
+
+*****			Waiting Queue			*****
+
+*****Running Process 7*****
+state: Running	ID: 7	K: 	priority: 0	CPU used: 133	CPU max: 74	Wait: 366
+
+*****			Process Completed			*****
+state: Running	ID: 7	K: 	priority: 0	CPU used: 133	CPU max: 74	Wait: 366
